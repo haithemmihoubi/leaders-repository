@@ -1,0 +1,7 @@
+Espace admin : Admin123
+
+Espace etudiant exemple 
+cin :9632949
+
+Espace enseignant  exemple
+cin : 33658874
